@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ChallengeStudentCourses_Collections\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ChallengeStudentCourses_Collections\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ChallengeStudentCourses_Collections\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ChallengeStudentCourses_Collections\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ChallengeStudentCourses_Collections\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\ChallengeStudentCourses_Collections\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
