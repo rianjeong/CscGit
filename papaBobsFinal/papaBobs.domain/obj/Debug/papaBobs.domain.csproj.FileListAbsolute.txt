@@ -1,0 +1,11 @@
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\bin\Debug\papaBobs.domain.dll
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\bin\Debug\papaBobs.domain.pdb
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\bin\Debug\papaBobs.DTO.dll
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\bin\Debug\papaBobs.Persistence.dll
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\bin\Debug\papaBobs.DTO.pdb
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\bin\Debug\papaBobs.Persistence.pdb
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\obj\Debug\papaBobs.domain.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\obj\Debug\papaBobs.domain.dll
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\obj\Debug\papaBobs.domain.pdb
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\papaBobsFinal\papaBobs.domain\bin\Debug\EntityFramework.xml
